@@ -1,0 +1,35 @@
+.forma{
+    width: 500px;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: palevioletred;
+    margin-top:  100px;
+    display: flex;
+    align-items: center;
+}
+.forma input{
+    width: 300px;
+    height: 50px;
+    outline: none;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(49, 4, 59);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+.button {
+	width: 100px;
+	height: 73px;
+	border: 2px solid;
+	border-radius: 10px;
+	background: white;
+	outline: none;
+    font-size: 25px;
+    color: rgb(49, 4, 59);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
